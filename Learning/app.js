@@ -45,3 +45,9 @@ console.log(firstName + " " + age + "years old" + job + " is he Married ?" + isM
 
 var lastName = prompt("What is his last name?");
 console.log(lastName);
+
+/**
+ * OPERATORS
+ */
+
+ 
